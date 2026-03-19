@@ -1,0 +1,21 @@
+incident_type,dispatch_time,address,longitude,latitude,handling_duration_min,police_unit_count,status
+Theft,2025-01-05T08:12:00,Xuancheng Road A,118.7412,30.9488,36,2,closed
+Traffic Accident,2025-01-05T09:40:00,Nanmen Street B,118.7525,30.9621,52,3,closed
+Dispute,2025-01-06T19:26:00,Jingting Avenue C,118.7234,30.9442,41,2,closed
+Fraud,2025-01-07T11:55:00,Industrial Park D,118.7688,30.9710,89,2,processing
+Public Order,2025-01-08T21:30:00,Railway Station E,118.7344,30.9577,63,4,closed
+Emergency Help,2025-01-09T02:18:00,Hospital F,118.7456,30.9663,28,1,closed
+Theft,2025-01-10T16:47:00,School G,118.7571,30.9384,35,2,closed
+Traffic Accident,2025-01-11T07:35:00,Xuancheng Road A,118.7398,30.9507,74,3,closed
+Dispute,2025-01-12T20:16:00,Nanmen Street B,118.7513,30.9602,47,2,closed
+Fraud,2025-01-13T13:09:00,Jingting Avenue C,118.7269,30.9466,95,2,processing
+Public Order,2025-01-14T22:42:00,Industrial Park D,118.7705,30.9724,58,3,closed
+Emergency Help,2025-01-15T03:50:00,Railway Station E,118.7330,30.9562,25,1,closed
+Theft,2025-01-16T15:28:00,Hospital F,118.7442,30.9647,39,2,closed
+Traffic Accident,2025-01-17T08:17:00,School G,118.7588,30.9398,68,3,closed
+Dispute,2025-01-18T18:43:00,Xuancheng Road A,118.7426,30.9493,44,2,closed
+Fraud,2025-01-19T10:22:00,Nanmen Street B,118.7541,30.9638,101,2,processing
+Public Order,2025-01-20T23:15:00,Jingting Avenue C,118.7249,30.9451,61,3,closed
+Emergency Help,2025-01-21T01:31:00,Industrial Park D,118.7693,30.9702,30,1,closed
+Theft,2025-01-22T17:54:00,Railway Station E,118.7357,30.9585,33,2,closed
+Traffic Accident,2025-01-23T06:58:00,Hospital F,118.7468,30.9674,71,3,closed
